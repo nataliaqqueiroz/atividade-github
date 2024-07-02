@@ -1,0 +1,1 @@
+O GitHub é uma plataforma de hospedagem de código-fonte e controle de versão usando o sistema de controle de versão Git. Foi fundada em 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon. A plataforma permite que desenvolvedores colaborem em projetos, rastreiem alterações no código, e gerenciem versões de software de forma eficiente.
